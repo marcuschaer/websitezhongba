@@ -206,4 +206,21 @@ footer .social-media img:hover {
     #banner p {
         font-size: 1em;
     }
+    .back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+    background-color: #a83232;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.back-to-top:hover {
+    background-color: #fbc02d;
+    color: #333;
+}
 }
