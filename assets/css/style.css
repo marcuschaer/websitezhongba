@@ -26,8 +26,8 @@ header {
 }
 
 .logo img {
-    width: 50px;  /* Largura ajustada da logo */
-    height: 50px; /* Altura ajustada da logo */
+    width: 10px;  /* Largura ajustada da logo */
+    height: 10px; /* Altura ajustada da logo */
     transition: transform 0.3s ease-in-out;
 }
 
